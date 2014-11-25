@@ -8,3 +8,5 @@ Adding stuff from CLI
 3rd
 
 4th
+
+Some changes from github before local changes are pushed
